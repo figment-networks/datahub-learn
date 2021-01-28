@@ -100,9 +100,9 @@ serde_json = "1.0.60"
 near-sdk = "2.0.0"
 borsh = "0.7.1"
 wee_alloc = "0.4.5"
-rand = "0.7.3"
-rand_chacha = "0.2.2"
-rand_seeder = "0.2.1"
+rand = "=0.7.3"
+rand_chacha = "=0.2.2"
+rand_seeder = "=0.2.1"
 
 [profile.release]
 codegen-units = 1
