@@ -51,7 +51,7 @@ const wallet = new ethers.Wallet.fromMnemonic(mnemonic);
 AVAX_privatekey = wallet.privateKey;             
 ```
 
-The web3 package is designed to interact with an Ethereum blockchain and Ethereum smart contracts. The web3 module is capable of acting upon the AVAX implementation of the EVM. So, when interacting with the C-chain, the web3 module is used. Here, web3.eth.getBalance fetches the AVAX balance. `result` in `web3.utils.fromWei` above is the balance of the account in the units of wei (The minimum unit of Ether is called wei and 1 Ether is 10^18 wei). `fromWei` is a method in web3.utils, converting a number from one unit to another. So,`web3.utils.fromWei(result, "ether")` above converts the balance from wei to ether. Since we are viewing the AVAX token balance, we will print AVAX at the end. 
+The web3 package is designed to interact with an Ethereum blockchain and Ethereum smart contracts. The web3 module is capable of acting upon the AVAX implementation of the EVM. So, when interacting with the C-chain, the web3 module is used. Here, web3.eth.getBalance fetches the AVAX balance. `result` in `web3.utils.fromWei` below is the balance of the account in the units of wei (The minimum unit of Ether is called wei and 1 Ether is 10^18 wei). `fromWei` is a method in web3.utils, converting a number from one unit to another. So,`web3.utils.fromWei(result, "ether")` in the code below converts the balance from wei to ether. Since we are viewing the AVAX token balance, we will print AVAX at the end. 
 
 
 ```text
