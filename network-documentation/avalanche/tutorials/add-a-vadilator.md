@@ -16,6 +16,16 @@ You've completed [Run an Avalanche Node](../../get-started.md) and are familiar 
 
 In order to ensure your node is well-connected, make sure that your node can receive and send TCP traffic on the staking port \(`9651` by default\) and that you started your node with command line argument `--public-ip=[YOUR NODE'S PUBLIC IP HERE]`. Failing to do either of these may jeopardize your staking reward.
 
+## Create a Avalanche Wallet
+
+ Make a [Avalanche Wallet] by clicking on this link (https://wallet.avax.network).
+ 
+ ![Create a Avalanche Wallet](../../../.gitbook/assets/create-new-wallet.png).
+ 
+## Home page of a Avalanche Wallet    
+
+![Home page](../../../.gitbook/assets/wallet-ava-home.png).
+
 ## Add a validator with Avalanche Wallet
 
 First, we show you how to add your node as a validator by using [Avalanche Wallet](https://wallet.avax.network).
@@ -44,9 +54,32 @@ The response has your node’s ID:
 }
 ```
 
-Open [the wallet](https://wallet.avax.network/), and go the `Earn` tab. Choose `Add Validator`.
+Open [the Avalanche wallet](https://wallet.avax.network/), and go the `Earn` tab. Choose `Add Validator`.
 
-![Web wallet earn tab](../../../.gitbook/assets/web-wallet-earn-tab.png)
+![Web wallet earn tab](../../../.gitbook/assets/ava-earn-wallet.png).
+
+To enable Validator , click on this network option.
+
+![wallet.ava-change-network-to-fuji](../../../.gitbook/assets/wallet.ava-change-network-to-fuji.png).
+
+Select the Fuji option instead of Mainnet.
+
+![select-fuji-network](../../../.gitbook/assets/select-fuji-network.png).
+
+To  `Add Validator` you need to add coins in the Wallet.
+
+For adding the coin in the Wallet, Click on this Link (https://faucet.avax-test.network).
+
+![avax-request-fund](../../../.gitbook/assets/avax-request-fund.png).
+
+Add your wallet Address, and verify recapcha and hit on Request AVAX.
+
+Now you have to convert your coin 'X-Chain' to 'P-Chain', by clicking on the Cross Chain Tab.
+
+![convert-x2p chain-ava-wallet](../../../.gitbook/assets/convert-x2p chain-ava-wallet.png).
+
+Put the Amount and hit 'conform'.
+ 
 
 Fill out the staking parameters. They are explained in more detail below. When you’ve filled in all the staking parameters and double-checked them, click `Confirm`. Make sure the staking period is at least 2 weeks, the delegation fee rate is at least 2%, and you’re staking at least 2,000 AVAX.
 
