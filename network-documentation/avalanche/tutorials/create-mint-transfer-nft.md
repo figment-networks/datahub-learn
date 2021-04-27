@@ -13,27 +13,22 @@ This enables many use cases that would be impossible with interchangeable tokens
 
 [**The original tutorial can be found in the AVA Labs documentation here**](https://docs.avax.network/build/tutorials/smart-digital-assets/wallet-nft-studio). 
 
-## NFT Studio on Avalanche Wallet
-
-To make experimenting with the creation and exchange of NFTs easier, we have built **NFT Studio** into the [Avalanche Wallet](https://wallet.avax.network/), where you can use it to create NFTs as assets that we call Collectibles. Collectibles can be generic NFTs with a picture and a description, or custom NFTs with payloads containing JSON, custom URL, or UTF-8 data. You can create them using a simple point and click interface, enabling you to go from the idea of sending NFTs to your friends within minutes. No technical knowledge is required.
-
-To access the **NFT Studio**, log into your Avalanche Wallet, and on the left side select **Studio**:
+### Create New Wallet
 
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/create-new-wallet.png)
 
-This will open the NFT Studio. There you have two options: **New Family**, for the creation of a new family of NFTs, and **Mint Collectible** for creating new assets in existing families. We need to create our first family of NFTs, so click **New Family**.
+### Generate Key Phrase
 
-### Create NFT Family
-
-There you will be asked to enter the name of your collectible family, as well as a symbol \(ticker\). Names do not have to be unique.
 When you click on the Access button, you will be directed to a new window "Generate key Phrase", where you will see a list of keycodes and need to save or capture the given set of 12-16 words somewhere safe.
 This list of code will help to access your account( do not share it with anyone)
 
-![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/generate-new-key.png)
-
 you will be directed to your key phrase window,
 
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/generate-new-key.png)
+
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/your-key-phrase.png)
+
+### Verify And Access Wallet
 
 After Generating and capturing the list of codes, you will again need to verify the key-phrase( list of codes), where you have to fill in the blanks in order to access your account.
 
@@ -58,6 +53,19 @@ On the left sidebar, you will have other options too, like
 * Activity
 * Manage keys 
 * Advanced
+
+
+### NFT Studio on Avalanche Wallet
+
+To make experimenting with the creation and exchange of NFTs easier, we have built **NFT Studio** into the [Avalanche Wallet](https://wallet.avax.network/), where you can use it to create NFTs as assets that we call Collectibles. Collectibles can be generic NFTs with a picture and a description, or custom NFTs with payloads containing JSON, custom URL, or UTF-8 data. You can create them using a simple point and click interface, enabling you to go from the idea of sending NFTs to your friends within minutes. No technical knowledge is required.
+
+To access the **NFT Studio**, log into your Avalanche Wallet, and on the left side select **Studio**:
+
+This will open the NFT Studio. There you have two options: **New Family**, for the creation of a new family of NFTs, and **Mint Collectible** for creating new assets in existing families. We need to create our first family of NFTs, so click **New Family**.
+
+### Create NFT Family
+
+There you will be asked to enter the name of your collectible family, as well as a symbol \(ticker\). Names do not have to be unique.
 
 ## 2. Mint NFTs
 
