@@ -1,24 +1,17 @@
 ---
-description: Learn how to create, mint, and transfer an NFT on Avalanche.
+description: Learn how to create, mint, and transfer NFTs on Avalanche.
 ---
 
-# 1. Create an NFT using Avalanche wallet
+# Create, Mint and Transfer NFTs using Avalanche wallet
 
 ## Introduction
 
-Avalanche is a global financial network for the issuance and trade of digital goods. On Avalanche, these digital goods are represented as tokens, which can be assets or utilities. Some tokens are **fungible**, which means that one token is interchangeable for any other token. Real-world currency is fungible, for example; one $5 note is treated as being the same as any other $5 note but let's say for AVAX the value is not constant it changes as its financial network grows.
+NFT is an interesting term nowadays, I first interacted with this creature when I was playing around on Avalanche wallet. These are `Collectibles` that you can create and share with each other. In more technical terms NFT collectible is called ERC721 token.It is basically a form of “art” that can be a picture, tweet, audio etc in broader perspective. A non-fungible token (NFT) is a unit of data on a digital ledger called blockchain, where each NFT represents something unique item, that can’t be interchanged.
+This enables many use cases that would be impossible with interchangeable tokens, like utility, proof of ownership and transaction history of a unique asset.
 
-Avalanche also supports non-fungible tokens \(NFTs\). By definition, each NFT is unique and not perfectly interchangeable for any other NFT. For example, there could be an NFT that represents ownership of a real-world piece of art; each piece of art, like each NFT, is unique. NFTs represent digital scarcity and may prove to have even greater utility than traditional fungible tokens.
-
-# Create NFTs with the Avalanche Wallet
+## 1. Create NFTs
 
 [**The original tutorial can be found in the AVA Labs documentation here**](https://docs.avax.network/build/tutorials/smart-digital-assets/wallet-nft-studio). 
-
-## Non-Fungible Tokens on Avalanche
-
-Besides the native AVAX token, [Avalanche platform](https://docs.avax.network/build/tutorials/platform) natively supports the creation of other types of digital assets: fixed-cap assets, variable-cap assets, and non-fungible tokens \(NFTs\).
-
-As opposed to regular tokens, which are interchangeable \(fungible\), meaning that each one is the same, each non-fungible token is unique on the network, with a distinct ID making it different from any other. This enables many use cases that would be impossible with interchangeable tokens, like proof of ownership of a unique asset.
 
 ## NFT Studio on Avalanche Wallet
 
@@ -66,7 +59,7 @@ On the left sidebar, you will have other options too, like
 * Manage keys 
 * Advanced
 
-### Mint NFTs
+## 2. Mint NFTs
 
 Before Minting, Go to the Studio tab as shown below- you will see a heading " Collectibles", in which two sections are provided 
 * New family 
@@ -89,7 +82,7 @@ to get Avax coin, you need to change the network setting from mainnet to Fuji-te
 
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/change-network-to-fuji.png)
 
-Go to Avax faucet-
+Go to Avax faucet:
 
 ![](https://faucet.avax-test.network/)
 
@@ -130,7 +123,7 @@ For each Generic collectible, a picture will be shown, along with the title, and
 
 If you select a collectible by clicking on it, you will see which group it belongs to, its quantity, along with the **Send** button.
 
-## Send & Transfer NFTs
+## 3. Transfer NFTs
 
 To send your collectible to someone, either click the **Send** button on the selected collectible in the Portfolio, or navigate to the **Send** tab on the left-hand side menu, and click **Add Collectible**:
 
