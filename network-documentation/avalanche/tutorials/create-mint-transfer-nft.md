@@ -15,11 +15,13 @@ This enables many use cases that would be impossible with interchangeable tokens
 
 ### Create New Wallet
 
+Go to [Avalanche wallet](wallet.avax.network) and click on create new wallet.
+
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/create-new-wallet.png)
 
 ### Generate Key Phrase
 
-When you click on the Access button, you will be directed to a new window "Generate key Phrase", where you will see a list of keycodes and need to save or capture the given set of 12-16 words somewhere safe.
+Now, you will be directed to a new window "Generate key Phrase", where you will see a list of keycodes and need to save or capture the given set of 12-24 words somewhere safe.
 This list of code will help to access your account( do not share it with anyone)
 
 you will be directed to your key phrase window,
