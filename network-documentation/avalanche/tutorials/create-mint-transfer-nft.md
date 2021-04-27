@@ -12,7 +12,7 @@ Avalanche also supports non-fungible tokens \(NFTs\). By definition, each NFT is
 
 # Create NFTs with the Avalanche Wallet
 
-\*\*\*\*[**The original tutorial can be found in the AVA Labs documentation here**](https://docs.avax.network/build/tutorials/smart-digital-assets/wallet-nft-studio). 
+[**The original tutorial can be found in the AVA Labs documentation here**](https://docs.avax.network/build/tutorials/smart-digital-assets/wallet-nft-studio). 
 
 ## Non-Fungible Tokens on Avalanche
 
@@ -65,7 +65,7 @@ to get Avax coin, you need to change from mainet to Fuji test network.
 
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/mainet-to-fuji-test-network.PNG)
 
-Go to Avax faucnet-
+Go to Avax faucet-
 
 ![](https://faucet.avax-test.network/)
 
