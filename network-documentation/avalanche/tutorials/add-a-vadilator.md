@@ -20,7 +20,7 @@ In order to ensure your node is well-connected, make sure that your node can rec
 
  Make a Avalanche Wallet by clicking on this link (https://wallet.avax.network)
  
- ![Create a `Avalanche Wallet`(../../../.gitbook/assets/create-new-wallet.png).
+ ![Create a Avalanche Wallet](../../../.gitbook/assets/create-new-wallet.png).
  
 ## Home page of a Avalanche Wallet    
 
