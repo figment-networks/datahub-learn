@@ -81,11 +81,14 @@ Now you have to convert your coin 'Exchange-Chain' to 'Platform-Chain', by click
 Put the Amount and hit `conform`.
  
 
-Fill out the staking parameters. They are explained in more detail below. When you’ve filled in all the staking parameters and double-checked them, click `Confirm`. Make sure the staking period is at least 2 weeks, the delegation fee rate is at least 2%, and you’re staking at least 2,000 AVAX for Mainnet network and 2 AVAX for Fuji network.
-
 {% page-ref page="../../../learn/platform-overview/staking.md" %}
 
-![Earn validate](../../../.gitbook/assets/earn-validate.png)
+
+![Earn validate](../../../.gitbook/assets/nodeid-validate-avax-wallet.png)
+
+Fill out the staking parameters. They are explained in more detail below. When you’ve filled in all the staking parameters and double-checked them, click `Confirm`. Make sure the staking period is at least 2 weeks and maximun 2 months, the delegation fee rate is at least 2%, and you’re staking at least 2,000 AVAX for Mainnet network and 2 AVAX for Fuji network.
+
+![conform-nodeid-transaction-avex-wallet](../../../.gitbook/assets/conform-nodeid-transaction-avex-wallet.png)
 
 You should see this success message, and your balance should be updated.
 
