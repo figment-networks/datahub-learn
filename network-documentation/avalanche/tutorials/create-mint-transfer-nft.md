@@ -120,7 +120,7 @@ After you enter and check the data, press **Mint** to create the collectible. Tr
 
 An overview of your collectibles is always visible at the top of the screen, along with your balances.
 
-![](../../../.gitbook/assets/nft-studio-06-overview.png)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/avalanche-balance.png)
 
 To see your collectibles in more detail, select **Portfolio** from the left-hand side menu. You will be presented with a screen showing all of your assets, with tokens selected by default. Change the selection to **Collectibles** by clicking the corresponding tab.
 
