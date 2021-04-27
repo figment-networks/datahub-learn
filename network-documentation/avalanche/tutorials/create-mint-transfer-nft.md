@@ -128,8 +128,6 @@ To see your collectibles in more detail, select **Portfolio** from the left-hand
 
 For each Generic collectible, a picture will be shown, along with the title, and the number indicating how many copies of the collectible are in your portfolio. Hovering over the collectible with your pointer will show the detailed description:
 
-![](../../../.gitbook/assets/nft-studio-08-detail.png)
-
 If you select a collectible by clicking on it, you will see which group it belongs to, its quantity, along with the **Send** button.
 
 ## Send & Transfer NFTs
