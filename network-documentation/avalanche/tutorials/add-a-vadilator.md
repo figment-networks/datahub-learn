@@ -76,7 +76,7 @@ Add your wallet Address, and verify recapcha and hit on Request AVAX.
 
 Now you have to convert your coin 'X-Chain' to 'P-Chain', by clicking on the Cross Chain Tab.
 
-![convert-x2p chain-ava](../../../.gitbook/assets/convert-x2p chain-ava.png).
+![convert-x-to-p-chain-ava-wallet](../../../.gitbook/assets/convert-x-to-p-chain-ava-wallet.png).
 
 Put the Amount and hit `conform`.
  
