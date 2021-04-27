@@ -76,11 +76,11 @@ Now you have to convert your coin 'Exchange-Chain' to 'Platform-Chain', by click
 
 ![convert-x-to-p-chain-ava-wallet](../../../.gitbook/assets/convert-x-to-p-chain-ava-wallet.png).
 
-Put the Amount and hit `confirm`. Add a Validator
+Put the Amount and hit `confirm`. 
 
 ![Add-a-Validator](../../../.gitbook/assets/Add-a-Validator.png).
  
-That's how a Validator look like.
+That's how `Add a Validator` look like.
  
 
 {% page-ref page="../../../learn/platform-overview/staking.md" %}
