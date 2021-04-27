@@ -142,7 +142,7 @@ You will be presented with a menu to select a collectible you wish to send.
 
 You can send multiple collectibles in a single transaction. Clicking the label on the collectible will let you edit the number of copies you wish to send. You can send multiple families and collectible types in a single transaction.
 
-![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/confirm-transcation.png)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/send-nft-to-different-wallet.png)
 
 When you have entered the destination address, and optionally entered the memo text, press **Confirm** to initiate the transaction.
 
