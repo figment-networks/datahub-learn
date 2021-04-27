@@ -74,7 +74,7 @@ For adding the `coin` in the Wallet, Click on this Link (https://faucet.avax-tes
 
 Add your wallet Address, and verify recapcha and hit on Request AVAX.
 
-Now you have to convert your coin 'X-Chain' to 'P-Chain', by clicking on the Cross Chain Tab.
+Now you have to convert your coin 'Exchange-Chain' to 'Platform-Chain', by clicking on the Cross Chain Tab.
 
 ![convert-x-to-p-chain-ava-wallet](../../../.gitbook/assets/convert-x-to-p-chain-ava-wallet.png).
 
