@@ -78,7 +78,7 @@ Now you have to convert your coin 'Exchange-Chain' to 'Platform-Chain', by click
 
 Put the Amount and hit `confirm`. Add a Validator
 
-![Add a Validator](../../../.gitbook/assets/Add a Validator.png).
+![Add-a-Validator](../../../.gitbook/assets/Add-a-Validator.png).
  
 That's how a Validator look like.
  
