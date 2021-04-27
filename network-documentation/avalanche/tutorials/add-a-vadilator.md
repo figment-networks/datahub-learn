@@ -86,13 +86,11 @@ Put the Amount and hit `conform`.
 
 ![Earn validate](../../../.gitbook/assets/nodeid-validate-avax-wallet.png)
 
-Fill out the staking parameters. They are explained in more detail below. When you’ve filled in all the staking parameters and double-checked them, click `Confirm`. Make sure the staking period is at least 2 weeks and maximun 2 months, the delegation fee rate is at least 2%, and you’re staking at least 2,000 AVAX for Mainnet network and 2 AVAX for Fuji network.
+When you’ve filled in all the staking parameters and double-checked them, click `Confirm`. Make sure the staking period is at least 2 weeks and maximun 2 months, the delegation fee rate is at least 2%, and you’re staking at least 2,000 AVAX for Mainnet network and 2 AVAX for Fuji network.
 
-![conform-nodeid-transaction-avex-wallet](../../../.gitbook/assets/conform-nodeid-transaction-avex-wallet.png)
+![Your validation transaction is sent](../../../.gitbook/assets/conform-nodeid-transaction-avex-wallet.png)
 
 You should see this success message, and your balance should be updated.
-
-![Your validation transaction is sent](../../../.gitbook/assets/your-validation-transaction-is-sent.png)
 
 Calling [`platform.getPendingValidators`](https://avalanche.gitbook.io/avalanche/build/apis/platform-chain-p-chain-api#platform-getpendingvalidators) verifies that our transaction was accepted.
 
