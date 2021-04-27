@@ -18,9 +18,9 @@ In order to ensure your node is well-connected, make sure that your node can rec
 
 ## Create a Avalanche Wallet
 
- Make a 'Avalanche Wallet' by clicking on this link (https://wallet.avax.network)
+ Make a Avalanche Wallet by clicking on this link (https://wallet.avax.network)
  
- ![Create a Avalanche Wallet](../../../.gitbook/assets/create-new-wallet.png).
+ ![Create a `Avalanche Wallet`(../../../.gitbook/assets/create-new-wallet.png).
  
 ## Home page of a Avalanche Wallet    
 
@@ -28,7 +28,7 @@ In order to ensure your node is well-connected, make sure that your node can rec
 
 ## Add a validator with Avalanche Wallet
 
-First, we show you how to add your node as a validator by using [Avalanche Wallet](https://wallet.avax.network).
+First, we show you how to add your node as a validator by using `Avalanche Wallet`(https://wallet.avax.network).
 
 Get your node’s ID by calling [`info.getNodeID`](https://avalanche.gitbook.io/avalanche/build/apis/info-api#info-getnodeid):
 
@@ -54,7 +54,7 @@ The response has your node’s ID:
 }
 ```
 
-Open [the Avalanche wallet](https://wallet.avax.network/), and go the `Earn` tab. Choose `Add Validator`.
+Open [`the Avalanche wallet`](https://wallet.avax.network/), and go the `Earn` tab. 
 
 ![Web wallet earn tab](../../../.gitbook/assets/ava-earn-wallet.png).
 
@@ -62,13 +62,13 @@ To enable Validator , click on this network option.
 
 ![wallet.ava-change-network-to-fuji](../../../.gitbook/assets/wallet.ava-change-network-to-fuji.png).
 
-Select the Fuji option instead of Mainnet.
+Select the `Fuji` option instead of `Mainnet`.
 
 ![select-fuji-network](../../../.gitbook/assets/select-fuji-network.png).
 
 To  `Add Validator` you need to add coins in the Wallet.
 
-For adding the coin in the Wallet, Click on this Link (https://faucet.avax-test.network).
+For adding the `coin` in the Wallet, Click on this Link (https://faucet.avax-test.network).
 
 ![avax-request-fund](../../../.gitbook/assets/avax-request-fund.png).
 
@@ -78,10 +78,10 @@ Now you have to convert your coin 'X-Chain' to 'P-Chain', by clicking on the Cro
 
 ![convert-x2p chain-ava](../../../.gitbook/assets/convert-x2p chain-ava.png).
 
-Put the Amount and hit 'conform'.
+Put the Amount and hit `conform`.
  
 
-Fill out the staking parameters. They are explained in more detail below. When you’ve filled in all the staking parameters and double-checked them, click `Confirm`. Make sure the staking period is at least 2 weeks, the delegation fee rate is at least 2%, and you’re staking at least 2,000 AVAX.
+Fill out the staking parameters. They are explained in more detail below. When you’ve filled in all the staking parameters and double-checked them, click `Confirm`. Make sure the staking period is at least 2 weeks, the delegation fee rate is at least 2%, and you’re staking at least 2,000 AVAX for Mainnet network and 2 AVAX for Fuji network.
 
 {% page-ref page="../../../learn/platform-overview/staking.md" %}
 
