@@ -51,26 +51,26 @@ Now, you can access your account. Click access and you will be directed to the a
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/access-wallet.png)
 
 In your avalanche wallet window, you will see-
-1. Balance
-2. Assets
-3. Wallet Address
-4. Transaction & Transaction History
+* Balance
+* Assets
+* Wallet Address
+* Transaction & Transaction History
 
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/avalanche-wallet.png)
-On the right sidebar, you will have other options too, like
-1. Send
-2. Earn
-3. Cross-chain
-5. Studio
-6. Activity
-7. Manage keys 
-8. Advanced
+On the left sidebar, you will have other options too, like
+* Send
+* Earn
+* Cross-chain
+* Studio
+* Activity
+* Manage keys 
+* Advanced
 
 ### Mint NFTs
 
 Before Minting, Go to the Studio tab as shown below- you will see a heading " Collectibles", in which two sections are provided 
-1. New family 
-2. Mint collectibles
+* New family 
+* Mint collectibles
 
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/avalanche-studio.PNG)
 
@@ -124,7 +124,7 @@ An overview of your collectibles is always visible at the top of the screen, alo
 
 To see your collectibles in more detail, select **Portfolio** from the left-hand side menu. You will be presented with a screen showing all of your assets, with tokens selected by default. Change the selection to **Collectibles** by clicking the corresponding tab.
 
-![](../../../.gitbook/assets/nft-studio-07-collectibles.png)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/collectible-coin.png)
 
 For each Generic collectible, a picture will be shown, along with the title, and the number indicating how many copies of the collectible are in your portfolio. Hovering over the collectible with your pointer will show the detailed description:
 
@@ -140,7 +140,7 @@ To send your collectible to someone, either click the **Send** button on the sel
 
 You will be presented with a menu to select a collectible you wish to send.
 
-![](../../../.gitbook/assets/nft-studio-10-multiple.png)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/pikachu-coin-wallet-address.png)
 
 You can send multiple collectibles in a single transaction. Clicking the label on the collectible will let you edit the number of copies you wish to send. You can send multiple families and collectible types in a single transaction.
 
