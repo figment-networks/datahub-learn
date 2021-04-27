@@ -6,9 +6,7 @@ The [Primary Network](https://avalanche.gitbook.io/avalanche/build/tutorials/pla
 
 The P-Chain manages metadata on Avalanche. This includes tracking which nodes are in which subnets, which blockchains exist, and which subnets are validating which blockchains. To add a validator, we’ll issue [transactions](http://support.avalabs.org/en/articles/4587384-what-is-a-transaction) to the P-Chain.
 
-{% hint style="danger" %}
 Note that once you issue the transaction to add a node as a validator, there is no way to change the parameters. **You can’t remove your stake early or change the stake amount, node ID, or reward address.** Please make sure you’re using the correct values in the API calls below. If you’re not sure, browse the [Developer FAQ's](http://support.avalabs.org/en/collections/2618154-developer-faq) or ask for help on [Discord.](https://chat.avalabs.org/)
-{% endhint %}
 
 ## Requirements
 
@@ -58,7 +56,7 @@ Open [`the Avalanche wallet`](https://wallet.avax.network/), and go the `Earn` t
 
 ![Web wallet earn tab](../../../.gitbook/assets/ava-earn-wallet.png).
 
-To enable Validator , click on this network option.
+To enable Validator, click on this network option.
 
 ![wallet.ava-change-network-to-fuji](../../../.gitbook/assets/wallet.ava-change-network-to-fuji.png).
 
@@ -78,7 +76,7 @@ Now you have to convert your coin 'Exchange-Chain' to 'Platform-Chain', by click
 
 ![convert-x-to-p-chain-ava-wallet](../../../.gitbook/assets/convert-x-to-p-chain-ava-wallet.png).
 
-Put the Amount and hit `conform`.
+Put the Amount and hit `confirm`.
  
 
 {% page-ref page="../../../learn/platform-overview/staking.md" %}
