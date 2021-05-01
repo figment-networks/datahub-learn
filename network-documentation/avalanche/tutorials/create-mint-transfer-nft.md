@@ -15,13 +15,13 @@ This enables many use cases that would be impossible with interchangeable tokens
 
 ### Create New Wallet
 
-Go to [Avalanche wallet](wallet.avax.network) and click on create new wallet.
+*Step 1- Go to [Avalanche wallet](wallet.avax.network) and click on create new wallet.
 
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/create-new-wallet.png)
 
 ### Generate Key Phrase
 
-Now, you will be directed to a new window "Generate key Phrase", where you will see a list of keycodes and need to save or capture the given set of 12-24 words somewhere safe.
+*Step 2- Now, you will be directed to a new window "Generate key Phrase", where you will see a list of keycodes and need to save or capture the given set of 12-24 words somewhere safe.
 This list of code will help to access your account( do not share it with anyone)
 
 you will be directed to your key phrase window,
@@ -32,7 +32,7 @@ you will be directed to your key phrase window,
 
 ### Verify And Access Wallet
 
-After Generating and capturing the list of codes, you will again need to verify the key-phrase( list of codes), where you have to fill in the blanks in order to access your account.
+* Step 3- After Generating and capturing the list of codes, you will again need to verify the key-phrase( list of codes), where you have to fill in the blanks in order to access your account.
 
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/verify-key-phrase.png)
 
@@ -61,9 +61,9 @@ On the left sidebar, you will have other options too, like
 
 To make experimenting with the creation and exchange of NFTs easier, we have built **NFT Studio** into the [Avalanche Wallet](https://wallet.avax.network/), where you can use it to create NFTs as assets that we call Collectibles. Collectibles can be generic NFTs with a picture and a description, or custom NFTs with payloads containing JSON, custom URL, or UTF-8 data. You can create them using a simple point and click interface, enabling you to go from the idea of sending NFTs to your friends within minutes. No technical knowledge is required.
 
-To access the **NFT Studio**, log into your Avalanche Wallet, and on the left side select **Studio**:
+*Step 4- To access the **NFT Studio**, log into your Avalanche Wallet, and on the left side select **Studio**:
 
-This will open the NFT Studio. There you have two options: **New Family**, for the creation of a new family of NFTs, and **Mint Collectible** for creating new assets in existing families. We need to create our first family of NFTs, so click **New Family**.
+*Step 5- This will open the NFT Studio. There you have two options: **New Family**, for the creation of a new family of NFTs, and **Mint Collectible** for creating new assets in existing families. We need to create our first family of NFTs, so click **New Family**.
 
 ### Create NFT Family
 
@@ -77,7 +77,7 @@ Before Minting, Go to the Studio tab as shown below- you will see a heading " Co
 
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/avalanche-studio.PNG)
 
-concerning the above image, go and click on Studio, where you have to create new family if you are a new user.
+*Step 6- Concerning the above image, go and click on Studio, where you have to create new family if you are a new user.
 
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/create-new-family-studio.png)
 
