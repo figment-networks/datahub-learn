@@ -4,6 +4,8 @@ description: Learn how to create, mint, and transfer NFTs on Avalanche.
 
 # Create, Mint and Transfer NFTs using Avalanche wallet
 
+[**The original tutorial can be found in the AVA Labs documentation here**](https://docs.avax.network/build/tutorials/smart-digital-assets/wallet-nft-studio). 
+
 ## About the author  
 
 Hi, I'm Devendra, a passionate Blockchain Developer 🚀 from [India](https://en.wikipedia.org/wiki/India) with a strong interest in Open-Source.
