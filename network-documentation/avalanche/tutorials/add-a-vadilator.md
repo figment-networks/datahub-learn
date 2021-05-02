@@ -85,7 +85,7 @@ Now click on the `Add Validator`.
 
 ![Earn validate](../../../.gitbook/assets/nodeid-validate-avax-wallet.png)
 
-When you’ve filled in all the staking parameters and double-checked them, click `Confirm`. Make sure the staking period is at least 2 weeks and maximun 2 months, the delegation fee rate is at least 2%, and you’re staking at least 2,000 AVAX for Mainnet network and 2 AVAX for Fuji network.
+When you’ve filled in all the staking parameters and double-checked them, click `Confirm`. Make sure the staking period is at least 2 weeks and maximum 2 months, the delegation fee rate is at least 2%, and you’re staking at least 2,000 AVAX for Mainnet network and 2 AVAX for Fuji network.
 
 ![Your validation transaction is sent](../../../.gitbook/assets/conform-nodeid-transaction-avex-wallet.png)
 
