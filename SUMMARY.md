@@ -43,6 +43,7 @@
     * [Create a New Blockchain](network-documentation/avalanche/tutorials/create-a-new-blockchain.md)
     * [Create a Local Test Network](network-documentation/avalanche/tutorials/create-a-local-test-network.md)
     * [Create a Subnet](network-documentation/avalanche/tutorials/create-a-subnet.md)
+    * [Add a Validator](network-documentation/avalanche/tutorials/add-a-vadilator.md)
     * [Create a New Virtual Machine](network-documentation/avalanche/tutorials/create-a-new-virtual-machine.md)
     * [Connect DataHub to Metamask](network-documentation/avalanche/tutorials/connect-datahub-to-metamask.md)
     * [Deploy a Smart Contract on Avalanche using Remix and MetaMask](network-documentation/avalanche/tutorials/deploy-a-smart-contract-on-avalanche-using-remix-and-metamask.md)
