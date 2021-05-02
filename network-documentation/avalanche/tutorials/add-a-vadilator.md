@@ -80,10 +80,8 @@ Now you have to convert your coin `Exchange-Chain` to `Platform-Chain`, by click
 Put the Amount and hit `confirm`. 
 
 ![Add-a-Validator](../../../.gitbook/assets/Add-a-Validator.png).
- 
 That's how `Add a Validator` look like.
  
-
 
 ![Earn validate](../../../.gitbook/assets/nodeid-validate-avax-wallet.png)
 
