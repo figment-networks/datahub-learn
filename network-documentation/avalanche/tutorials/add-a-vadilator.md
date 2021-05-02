@@ -84,8 +84,6 @@ Put the Amount and hit `confirm`.
 That's how `Add a Validator` look like.
  
 
-{% page-ref page="../../../learn/platform-overview/staking.md" %}
-
 
 ![Earn validate](../../../.gitbook/assets/nodeid-validate-avax-wallet.png)
 
