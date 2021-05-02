@@ -2,23 +2,24 @@
 
 ## About the author  
 
-Hi, I'm Devendra, a passionate Blockchain Developer 🚀 from India 🇮🇳 with a strong interest in Open-Source.
+Hi, I'm Devendra, a passionate Blockchain Developer 🚀 from [India](https://en.wikipedia.org/wiki/India) with a strong interest in Open-Source.
 
-🌱 I’m working with Ethereum and Avalanche blockchain. Built and deployed architecture for complex blockchain solutions. Worked with DeFi offerings such as staking, farming, flashloans etc. Blocklendr, Eth Arbitrage.
+🌱 I’m working with [Ethereum](https://ethereum.org/en/) and [Avalanche](https://www.avalabs.org/) blockchain. Built and deployed architecture for complex blockchain solutions.
+Worked with DeFi offerings such as staking, farming, flashloans etc. [Blocklendr](https://blocklendr.herokuapp.com/home), [Eth Arbitrage](https://github.com/Devilla/eth-arbitrage).
 
-🥇 I have contributed to some of the big projects by firms like Ava labs, ENS domains, Bancor Network etc.
-
-Also, familiar with cryptography. Worked with Crypto Gambling Foundation, Bc.game, stake, primedice, crypto.games and Bitvest.
+🥇 I have contributed to some of the big projects by firms like [Ava labs](https://github.com/ava-labs/avalanche-docs/graphs/contributors), [ENS domains](https://github.com/ensdomains/address-encoder/graphs/contributors), 
+[Bancor Network](https://github.com/bancorprotocol/sdk/graphs/contributors) etc.
 
 Built decentralised exchanges (Dexs) and lending platforms similar to Uniswap and Aave.
 
 📫 How to reach me:
 
-Follow me on [Twitter](twitter.com/de_villa) 🐦
+Follow me on [Twitter](https://twitter.com/de_villa7) 🐦
 
-Shoot me a mail 💌
+Shoot me a [mail](dev.yadav@muellners.org) 💌
 
-Ping me on Telegram ↗️
+Ping me on [Telegram](https://t.me/Devilla7) ↗️
+
 
 ## Introduction
 
