@@ -4,8 +4,7 @@
 
 Hi, I'm Devendra, a passionate Blockchain Developer 🚀 from [India](https://en.wikipedia.org/wiki/India) with a strong interest in Open-Source.
 
-🌱 I’m working with [Ethereum](https://ethereum.org/en/) and [Avalanche](https://www.avalabs.org/) blockchain. Built and deployed architecture for complex blockchain solutions.
-Worked with DeFi offerings such as staking, farming, flashloans etc. [Blocklendr](https://blocklendr.herokuapp.com/home), [Eth Arbitrage](https://github.com/Devilla/eth-arbitrage).
+🌱 I’m working with [Ethereum](https://ethereum.org/en/) and [Avalanche](https://www.avalabs.org/) blockchain. I have built and deployed architecture for complex blockchain solutions. I have worked with DeFi offerings such as staking, farming, flashloans etc. [Blocklendr](https://blocklendr.herokuapp.com/home), [Eth Arbitrage](https://github.com/Devilla/eth-arbitrage).
 
 🥇 I have contributed to some of the big projects by firms like [Ava labs](https://github.com/ava-labs/avalanche-docs/graphs/contributors), [ENS domains](https://github.com/ensdomains/address-encoder/graphs/contributors), 
 [Bancor Network](https://github.com/bancorprotocol/sdk/graphs/contributors) etc.
@@ -419,3 +418,4 @@ The full command is:
 
 `./build/avalanchego --whitelisted-subnets=nTd2Q2nTLp8M9qv2VKHMdvYhtNWX7aTPa4SMEK7x7yJHbcWvr`
 
+Made with ❤️ in [India](https://en.wikipedia.org/wiki/India).
