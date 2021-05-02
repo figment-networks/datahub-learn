@@ -30,14 +30,15 @@ First, we show you how to add your node as a validator by using `Avalanche Walle
 
 Get your node’s ID by calling [`info.getNodeID`](https://avalanche.gitbook.io/avalanche/build/apis/info-api#info-getnodeid):
 
-![getNodeID postman](../../../.gitbook/assets/getNodeID-postman.PNG)
+![getNodeID postman](../../../.gitbook/assets/get-node-id-postman.PNG)
 
 ```cpp
-curl -X POST --data '{
+curl -X POST --data ,
     "jsonrpc":"2.0",
     "id"     :1,
-    "method" :"info.getNodeID"
-}' -H 'content-type:application/json;' 127.0.0.1:9650/ext/info
+    "method" :"info.getNodeID",
+    "params" : {
+    }' 
 ```
 
 The response has your node’s ID:
@@ -46,7 +47,7 @@ The response has your node’s ID:
 {
     "jsonrpc": "2.0",
     "result": {
-        "nodeID": "NodeID-5mb46qkSBj81k9g9e4VFjGGSbaaSLFRzD"
+        "nodeID": "NodeID-6Biyec558WUA51xLh753fvDk8daao7JGc"
     },
     "id": 1
 }
