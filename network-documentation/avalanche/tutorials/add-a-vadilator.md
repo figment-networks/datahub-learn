@@ -20,7 +20,7 @@ In order to ensure your node is well-connected, make sure that your node can rec
  
  ![Create a Avalanche Wallet](../../../.gitbook/assets/create-new-wallet.png).
  
-## Home page of a Avalanche Wallet    
+## Dashboard of Avalanche Wallet    
 
 ![Home page](../../../.gitbook/assets/wallet-ava-home.png).
 
