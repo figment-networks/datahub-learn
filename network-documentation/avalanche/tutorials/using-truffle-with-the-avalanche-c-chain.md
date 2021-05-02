@@ -6,6 +6,25 @@ description: Learn how to use Truffle with the C-Chain
 
 [**The original tutorial can be found in the AVA Labs documentation here**](https://docs.avax.network/build/tutorials/smart-contracts/using-truffle-with-the-avalanche-c-chain). 
 
+## About the author  
+
+Hi, I'm Devendra, a passionate Blockchain Developer 🚀 from [India](https://en.wikipedia.org/wiki/India) with a strong interest in Open-Source.
+
+🌱 I’m working with [Ethereum](https://ethereum.org/en/) and [Avalanche](https://www.avalabs.org/) blockchain. I have built and deployed architecture for complex blockchain solutions. I have worked with DeFi offerings such as staking, farming, flashloans etc. [Blocklendr](https://blocklendr.herokuapp.com/home), [Eth Arbitrage](https://github.com/Devilla/eth-arbitrage).
+
+🥇 I have contributed to some of the big projects by firms like [Ava labs](https://github.com/ava-labs/avalanche-docs/graphs/contributors), [ENS domains](https://github.com/ensdomains/address-encoder/graphs/contributors), 
+[Bancor Network](https://github.com/bancorprotocol/sdk/graphs/contributors) etc.
+
+Built decentralised exchanges (Dexs) and lending platforms similar to Uniswap and Aave.
+
+📫 How to reach me:
+
+Follow me on [Twitter](https://twitter.com/de_villa7) 🐦
+
+Shoot me a [mail](dev.yadav@muellners.org) 💌
+
+Ping me on [Telegram](https://t.me/Devilla7) ↗️
+
 ## Introduction
 
 [Truffle Suite](https://www.trufflesuite.com) is a toolkit for launching decentralized applications \(dapps\) on the EVM. With Truffle you can write and compile smart contracts, build artifacts, run migrations and interact with deployed contracts. This tutorial illustrates how Truffle can be used with Avalanche's C-Chain, which is an instance of the EVM.
@@ -379,3 +398,5 @@ Now you have the tools you need to launch a local Avalanche network, create a tr
   
 If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!
 
+
+Made with ❤️ in [India](https://en.wikipedia.org/wiki/India).
