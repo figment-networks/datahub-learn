@@ -1,4 +1,10 @@
+---
+description: Learn how to add a Validator on Avalanche
+---
+
 # Add a Validator
+
+[**The original tutorial can be found in the AVA Labs documentation here**](https://docs.avax.network/build/tutorials/nodes-and-staking/add-a-validator). 
 
 ## About the author  
 
