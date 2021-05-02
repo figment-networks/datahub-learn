@@ -4,6 +4,25 @@ description: Learn how to create, mint, and transfer NFTs on Avalanche.
 
 # Create, Mint and Transfer NFTs using Avalanche wallet
 
+## About the author  
+
+Hi, I'm Devendra, a passionate Blockchain Developer 🚀 from [India](https://en.wikipedia.org/wiki/India) with a strong interest in Open-Source.
+
+🌱 I’m working with [Ethereum](https://ethereum.org/en/) and [Avalanche](https://www.avalabs.org/) blockchain. I have built and deployed architecture for complex blockchain solutions. I have worked with DeFi offerings such as staking, farming, flashloans etc. [Blocklendr](https://blocklendr.herokuapp.com/home), [Eth Arbitrage](https://github.com/Devilla/eth-arbitrage).
+
+🥇 I have contributed to some of the big projects by firms like [Ava labs](https://github.com/ava-labs/avalanche-docs/graphs/contributors), [ENS domains](https://github.com/ensdomains/address-encoder/graphs/contributors), 
+[Bancor Network](https://github.com/bancorprotocol/sdk/graphs/contributors) etc.
+
+Built decentralised exchanges (Dexs) and lending platforms similar to Uniswap and Aave.
+
+📫 How to reach me:
+
+Follow me on [Twitter](https://twitter.com/de_villa7) 🐦
+
+Shoot me a [mail](dev.yadav@muellners.org) 💌
+
+Ping me on [Telegram](https://t.me/Devilla7) ↗️
+
 ## Introduction
 
 NFT is an interesting term nowadays, I first interacted with this creature when I was playing around on Avalanche wallet. These are `Collectibles` that you can create and share with each other. In more technical terms NFT collectible is called ERC721 token.It is basically a form of “art” that can be a picture, tweet, audio etc in broader perspective. A non-fungible token (NFT) is a unit of data on a digital ledger called blockchain, where each NFT represents something unique item, that can’t be interchanged.
@@ -82,19 +101,20 @@ Before Minting, Go to the Studio tab as shown below- you will see a heading " Co
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/create-new-family-studio.png)
 
 * Step 7- When you decided upon the name, ticker, and a number of groups, press **Create** to create the collectible family. The transaction fee will be deducted from your wallet's balance. When the family is created, you will see the transaction ID \(TxID\), as well as parameters for the family. 
+
 * Step 8- You can use the TxID to look up the transaction in [the explorer](https://explorer.avax.network/)
 Besides the name and the ticker, you will need to enter **Number of Groups**, that is, how many distinct collectibles will the newly created family hold. Choose carefully, because once created, the parameters of the collectible family cannot be changed.
 
-* step 9- After pressing **Mint Collectible** you will be presented with a list of all the Collectible families that still have Collectible groups that have not been created yet
+* Step 9- After pressing **Mint Collectible** you will be presented with a list of all the Collectible families that still have Collectible groups that have not been created yet
 as shown in the above image.
+
 * Step 10- you need to create a new mint, by providing a name, a code, and a number of groups. 
-Note- (a fee of 0.1 Avax will be deducted from your balance), to give it a test, follow below steps -  
+Note- (a fee of 0.1 Avax will be deducted from your balance), to give it a test, follow below steps: 
 to get Avax coin, you need to change the network setting from mainnet to Fuji-test network.
 
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/change-network-to-fuji.png)
 
 * Step 11- Go to Avax faucet:
-
 ![](https://faucet.avax-test.network/)
 
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/avax-faucet-testnet.PNG)
@@ -111,6 +131,7 @@ but if minting is not supported, then you need to create a new collectible famil
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/wallet-avax-network.png)
 
 By default, a **Generic** type of collectible will be selected. 
+
 * Step 15- That is an NFT that has a **Title**, **URL** for the image, and a **Description**. Enter the required data, as well as the **Quantity**, which will determine how many copies of the collectible will be created, and therefore, how many of them you will be able to send. As before, enter the data carefully, you won't be able to change anything once collectibles are minted. You will see a preview of the data where you can check how your collectible will look like.
 
 * Step 16- If you would like to have something else besides a picture collectible, select **Custom**.
@@ -160,3 +181,6 @@ By default, a **Generic** type of collectible will be selected.
 Now, you should know how to create NFT families, mint NFT groups, and send them to other addresses. Have fun with it! If you would like to know the technical background of how NFTs work on the Avalanche network or would like to build products using NFTs, please check out the [NFT tutorial](https://learn.figment.io/network-documentation/avalanche/tutorials/creating-an-nft-part-1). 
 
 If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!
+
+
+Made with ❤️ in [India](https://en.wikipedia.org/wiki/India).
