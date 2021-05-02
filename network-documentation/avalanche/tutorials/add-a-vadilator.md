@@ -1,5 +1,25 @@
 # Add a Validator
 
+## About the author  
+
+Hi, I'm Devendra, a passionate Blockchain Developer 🚀 from India 🇮🇳 with a strong interest in Open-Source.
+
+🌱 I’m working with Ethereum and Avalanche blockchain. Built and deployed architecture for complex blockchain solutions. Worked with DeFi offerings such as staking, farming, flashloans etc. Blocklendr, Eth Arbitrage.
+
+🥇 I have contributed to some of the big projects by firms like Ava labs, ENS domains, Bancor Network etc.
+
+Also, familiar with cryptography. Worked with Crypto Gambling Foundation, Bc.game, stake, primedice, crypto.games and Bitvest.
+
+Built decentralised exchanges (Dexs) and lending platforms similar to Uniswap and Aave.
+
+📫 How to reach me:
+
+Follow me on [Twitter](twitter.com/de_villa) 🐦
+
+Shoot me a mail 💌
+
+Ping me on Telegram ↗️
+
 ## Introduction
 
 The [Primary Network](https://avalanche.gitbook.io/avalanche/build/tutorials/platform/add-a-validator#introduction) is inherent to the Avalanche platform and validates Avalanche’s [built-in blockchains](https://avalanche.gitbook.io/avalanche/learn/platform-overview). In this tutorial, we’ll add a node to the Primary Network and a [subnet](https://avalanche.gitbook.io/avalanche/learn/platform-overview#subnets) on Avalanche.
