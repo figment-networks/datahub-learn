@@ -14,7 +14,7 @@ You've completed [Run an Avalanche Node](../../get-started.md) and are familiar 
 
 In order to ensure your node is well-connected, make sure that your node can receive and send TCP traffic on the staking port \(`9651` by default\) and that you started your node with command line argument `--public-ip=[YOUR NODE'S PUBLIC IP HERE]`. Failing to do either of these may jeopardize your staking reward.
 
-## Create a Avalanche Wallet
+## STEP-1 Create a Avalanche Wallet
 
  Make a Avalanche Wallet by clicking on this link (https://wallet.avax.network)
  
@@ -24,11 +24,11 @@ In order to ensure your node is well-connected, make sure that your node can rec
 
 ![Home page](../../../.gitbook/assets/wallet-ava-home.png).
 
-## Add a validator with Avalanche Wallet
+## STEP-2 Add a validator with Avalanche Wallet
 
 First, we show you how to add your node as a validator by using `Avalanche Wallet`(https://wallet.avax.network).
 
-Get your node’s ID by calling [`info.getNodeID`](https://avalanche.gitbook.io/avalanche/build/apis/info-api#info-getnodeid):
+### Task-1 Get your node’s ID by calling [`info.getNodeID`](https://avalanche.gitbook.io/avalanche/build/apis/info-api#info-getnodeid):
 
 ![getNodeID postman](../../../.gitbook/assets/get-node-id-postman.PNG)
 
@@ -53,27 +53,27 @@ The response has your node’s ID:
 }
 ```
 
-Open [`the Avalanche wallet`](https://wallet.avax.network/), and go to the `Earn` tab. 
+### Task-2 Open [`the Avalanche wallet`](https://wallet.avax.network/), and go to the `Earn` tab. 
 
 ![Web wallet earn tab](../../../.gitbook/assets/ava-earn-wallet.png).
 
-To enable Validator, click on this network option.
+### Task-3 To enable Validator, click on this network option.
 
 ![wallet.ava-change-network-to-fuji](../../../.gitbook/assets/wallet.ava-change-network-to-fuji.png).
 
-Select the `Fuji` option instead of `Mainnet`.
+### Task-4 Select the `Fuji` option instead of `Mainnet`.
 
 ![select-fuji-network](../../../.gitbook/assets/select-fuji-network.png).
 
 To  `Add Validator` you need to add coins in the Wallet.
 
-For adding the `coin` in the Wallet, Click on this Link (https://faucet.avax-test.network).
+### Task-5 For adding the `coin` in the Wallet, Click on this Link (https://faucet.avax-test.network).
 
 ![avax-request-fund](../../../.gitbook/assets/avax-request-fund.png).
 
 Add your wallet Address, and verify reCAPTCHA and hit on Request AVAX.
 
-Now you have to convert your coin `Exchange-Chain` to `Platform-Chain`, by clicking on the Cross Chain Tab.
+### Task-6 Now you have to convert your coin `Exchange-Chain` to `Platform-Chain`, by clicking on the Cross Chain Tab.
 
 ![convert-x-to-p-chain-ava-wallet](../../../.gitbook/assets/convert-x-to-p-chain-ava-wallet.png).
 
@@ -95,7 +95,7 @@ Calling [`platform.getPendingValidators`](https://avalanche.gitbook.io/avalanche
 
 ![getPendingValidators postman](../../../.gitbook/assets/getPendingValidators-postman.png)
 
-Go back to the `Earn` tab, and click `Estimated Rewards`.
+### Task-7 Go back to the `Earn` tab, and click `Estimated Rewards`.
 
 ![Earn, validate, delegate](../../../.gitbook/assets/earn-validate-delegate.png)
 
@@ -105,7 +105,7 @@ Once your validator’s start time has passed, you will see the rewards it may e
 
 That’s it!
 
-## Add a validator with API calls
+## STEP-3 Add a validator with API calls
 
 We can also add a node to the validator set by making API calls to our node. To add a node the Primary Network, we’ll call [`platform.addValidator`](https://avalanche.gitbook.io/avalanche/build/apis/platform-chain-p-chain-api#platform-addvalidator).
 
@@ -259,9 +259,9 @@ The response should include the node we just added:
 
 When the time reaches `1584021450`, this node will start validating the Primary Network. When it reaches `1584121156`, this node will stop validating the Primary Network. The staked AVAX will be returned to an address controlled by `username`, and the rewards, if any, will be given to `rewardAddress`.
 
-## Adding a Subnet Validator
+## STEP-4 Adding a Subnet Validator
 
-### Issuing a Subnet Validator Transaction
+### Task-1 Issuing a Subnet Validator Transaction
 
 Now let’s add the same node to a subnet. The following will make more sense if you’ve already done this [tutorial on creating a Subnet](https://avalanche.gitbook.io/avalanche/build/tutorials/platform/create-a-subnet). Right now you can only add validators to subnets with API calls, not with Avalanche Wallet.
 
@@ -388,7 +388,7 @@ The response should include the node we just added:
 
 When the time reaches `1584042912`, this node will start validating this Subnet. When it reaches `1584121156`, this node will stop validating this Subnet.
 
-### Whitelisting the Subnet
+### Task-2 Whitelisting the Subnet
 
 Now that the node has been added as a validator of the subnet, let’s add it to the whitelist of subnets. The whitelist prevents the node from validating a subnet unintentionally.
 
