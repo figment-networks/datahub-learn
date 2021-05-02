@@ -38,7 +38,7 @@ curl -X POST --data ,
     "id"     :1,
     "method" :"info.getNodeID",
     "params" : {
-    }' 
+    }
 ```
 
 The response has your node’s ID:
@@ -53,7 +53,7 @@ The response has your node’s ID:
 }
 ```
 
-Open [`the Avalanche wallet`](https://wallet.avax.network/), and go the `Earn` tab. 
+Open [`the Avalanche wallet`](https://wallet.avax.network/), and go to the `Earn` tab. 
 
 ![Web wallet earn tab](../../../.gitbook/assets/ava-earn-wallet.png).
 
