@@ -418,4 +418,4 @@ The full command is:
 
 `./build/avalanchego --whitelisted-subnets=nTd2Q2nTLp8M9qv2VKHMdvYhtNWX7aTPa4SMEK7x7yJHbcWvr`
 
-Made with ❤️ in [India](https://en.wikipedia.org/wiki/India).
+                     Made with ❤️ in [India](https://en.wikipedia.org/wiki/India).
