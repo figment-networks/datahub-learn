@@ -4,7 +4,7 @@ description: Learn how to use Truffle with the C-Chain
 
 # Using Truffle with the Avalanche C-Chain
 
-[**The original tutorial can be found in the AVA Labs documentation here**](https://docs.avax.network/build/tutorials/smart-contracts/using-truffle-with-the-avalanche-c-chain). 
+[**The original tutorial can be found in the AVA Labs documentation here**](https://docs.avax.network/build/tutorials/smart-contracts/using-truffle-with-the-avalanche-c-chain).
 
 ## Introduction
 
@@ -16,8 +16,27 @@ You've created an [Avalanche DataHub](https://datahub.figment.io/sign_up?service
 
 ## Dependencies
 
+* [Avash](https://github.com/ava-labs/avash) is a tool for running a local Avalanche network. It's similar to Truffle's [Ganache](https://www.trufflesuite.com/ganache).
 * [NodeJS](https://nodejs.org/en) v8.9.4 or later.
 * Truffle, which you can install with `npm install -g truffle`
+
+## Start up a local Avalanche network
+
+[Avash](https://github.com/ava-labs/avash) allows you to spin up private test network deployments with up to 15 AvalancheGo nodes out-of-the-box. Avash supports automation of regular tasks via lua scripts. This enables rapid testing against a wide variety of configurations. The first time you use avash you'll need to [install and build it](https://github.com/ava-labs/avash#quick-setup).
+
+Start a local five node Avalanche network:
+
+```
+javascript
+cd /path/to/avash
+# build Avash if you haven't done so
+go build
+# start Avash
+./avash
+# start a five node staking network
+runscript scripts/five_node_staking.lua
+```
+A five node Avalanche network is running on your machine. When you want to exit Avash, run `exit`, but don't do that now, and don't close this terminal tab.
 
 ## Create truffle directory and install dependencies
 
@@ -97,7 +116,7 @@ contract Storage {
     }
 
     /**
-     * @dev Return value 
+     * @dev Return value
      * @return value of 'number'
      */
     function retrieve() public view returns (uint256){
@@ -376,6 +395,5 @@ You should see the number you stored.
 ## Summary
 
 Now you have the tools you need to launch a local Avalanche network, create a truffle project, as well as create, compile, deploy and interact with Solidity contracts.  
-  
-If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!
 
+If you had any difficulties following this tutorial or simply want to discuss Avalanche tech with us you can [**join our community today**](https://discord.gg/fszyM7K)!
