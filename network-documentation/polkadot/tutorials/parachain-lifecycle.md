@@ -74,9 +74,9 @@ Polkadot uses a random beacon based on the [Vickrey auction](https://en.wikipedi
 Each slot lifecycle is **two years** and is divided into **four, 6 month lease periods.**
 ***An auction is for the right to occupy a parachain slot in each of four periods.***
 
-## ![](../../../.gitbook/assets/parachain-auction.png)
+  ## ![](../../../.gitbook/assets/parachain-auction.png)
 
-        Parachain Slot Auction Example [4]
+                                          Parachain Slot Auction Example [4]
 
 * Parachains can have their own local economies and their own form of governance. Chain autonomy is a focus for the Polkadot network.
     - Decisions in governance impact a chain's growth and development. 
@@ -117,9 +117,14 @@ The parachain team does not have any control over the contributed funds: all tok
 ---
 * Projects that are unable to secure a parachain slot through auction should also consider deploying their parachain on Polkadot's canary network, [Kusama](https://kusama.network/). In fact, Kusama will roll out parachain auctions first for testing and optimization.
 
-         Kusama is an early, unaudited release of Polkadot's source code that was made available before Polkadot's initial release. Kusama allows developers to experiment with new applications before releasing them onto the network. The network intends to be a testbed for new features and *radical* development. In the future, Kusama will also act as a parachain to the Polkadot network. The specs of the Kusama network are relatively the same as its cousin, Polkadot.
+         Kusama is an early, unaudited release of Polkadot's source code that was made 
+         available before Polkadot's initial release. Kusama allows developers to experiment 
+         with new applications before releasing them onto the network. The network intends to 
+         be a testbed for new features and *radical* development. In the future, Kusama will 
+         also act as a parachain to the Polkadot network. The specs of the Kusama network are 
+         relatively the same as its cousin, Polkadot.
 
-    # ![](../../../.gitbook/assets/polkadot-kusama.png)
+    # ![](../../../.gitbook/assets/kusama.png)
 
 * The candidate parachain can consider transforming their parachain into a parathread and use the pay-as-you-go model. The parathread model has a fixed registration fee. This registration fee *only registers* the parathread's source code onto the relay chain. The parathread is required to pay a fee to participate in a per-block auction for inclusion in the verification of the next Relay Chain block [2]. 
 
