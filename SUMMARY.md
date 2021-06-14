@@ -219,6 +219,7 @@
 * [🍡 Polkadot](network-documentation/polkadot/README.md)
   * [✏ Polkadot 101](network-documentation/polkadot/polkadot-101.md)
   * [✏ Polkadot Blockchain Terms](network-documentation/polkadot/polkadot-blockchain-terms.md)
+  * [✏ Parachain Lifecycle](network-documentation/polkadot/parachain-lifecycle.md)
   * [🎮 RPC & REST API](network-documentation/polkadot/rpc-and-rest-api/README.md)
     * [Polkadot RPC](network-documentation/polkadot/rpc-and-rest-api/polkadot-rpc.md)
   * [🎊 Enriched APIs](network-documentation/polkadot/enriched-apis/README.md)
