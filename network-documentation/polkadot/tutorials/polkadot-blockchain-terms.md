@@ -164,7 +164,21 @@ DApp stands for decentralized application; no single entity has complete control
 
 ### Things to consider when building a DApp on Polkadot
 
-#### **Wasm vs EVM**
+#### **Wasm vs EVM: Why Substrate encourages Wasm**
+Every blockchain ecosystem essentially needs a virtual machine to process things on-chain. The EVM is considered to be a lightweight VM that allows you to run smart contracts on the Ethereum network. 
+There are some problems currently facing the EVM that ultimately limit the throughput of the network and
+creates a bottleneck. 
+
+- The EVM isn’t as fast as it should be and directly impact network efficiency.
+- The EVM’s opcode isn't optimized for different hardware platforms.
+- The support and reach for developing smart contracts are limited.
+
+Wasm, or WebAssembly, was developed by the World Wide Web Consortium (W3C); it is essentially a new type of 
+code that can execute directly on the browser.
+- Wasm expands the supported languages that a developer can write a smart contract in, such as Rust, C/C++, C#, and Typescript.
+- Wasm is high performance
+- Wasm is optimized for different hardware platforms.
+
 This [article](https://www.parity.io/wasm-smart-contract-development/#:~:text=While%20Wasm%20itself%20benefits%20from,and%20interact%20with%20the%20blockchain) offers a perspective from Parity Technologies about Wasm being an alternative to 
 the EVM.
 
