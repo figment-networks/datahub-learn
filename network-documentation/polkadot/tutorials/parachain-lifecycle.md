@@ -4,7 +4,7 @@ description: Learn how about the lifecycle of parachains on Polkadot
 
 # **Introduction** 
 
-This tutorial guide will focus on the lifecycle of Polkadot's parachains, an integral part
+This guide will focus on the lifecycle of Polkadot's parachains, an integral part
 of the Polkadot ecosystem. An end-user or developer will learn how parachains will operate, and ways they can participate in the parachain lifecycle - from backing a parachain candidate to considerations for developing a parachain and what to expect when it's time to deploy.
 
 # **Prerequisites**
@@ -12,9 +12,10 @@ of the Polkadot ecosystem. An end-user or developer will learn how parachains wi
 It is recommended that you are have gone through the Polkadot Blockchain Concepts tutorial and 
 are familiar with the following:
 
-- A high-level understanding of Polkadot's architecture: 
-  [Video](https://www.youtube.com/watch?v=_-k0xkooSlA) on the official Polkadot YouTube Channel.
-- Getting Started with Polkadot on the official [Wiki](https://wiki.polkadot.network/docs/en/getting-started).
+- [Polkadot Behind the Code, Episode 1](https://www.youtube.com/watch?v=GcOKXAOh4Xw)
+- An understanding of Polkadot's architecture: 
+  [Polkadot: Are You Ready to Start Building?](https://www.youtube.com/watch?v=_-k0xkooSlA).
+- [Getting Started with Polkadot](https://wiki.polkadot.network/docs/en/getting-started).
 - Are comfortable with blockchain computing & networking terminology.
 
 # **Parachain Lifecycle**
@@ -72,11 +73,9 @@ impossible for any bidders to determine when the auction will end. As such, this
 Polkadot uses a random beacon based on the [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) which provides the randomness.
 
 Each slot lifecycle is **two years** and is divided into **four, 6 month lease periods.**
-***An auction is for the right to occupy a parachain slot in each of four periods.***
+***An auction is for the right to occupy a parachain slot in each of four periods.*** [4]
 
   ## ![](../../../.gitbook/assets/parachain-auction.png)
-
-                                          Parachain Slot Auction Example [4]
 
 * Parachains can have their own local economies and their own form of governance. Chain autonomy is a focus for the Polkadot network.
     - Decisions in governance impact a chain's growth and development. 
@@ -141,7 +140,6 @@ The parachain team does not have any control over the contributed funds: all tok
 
     ## ![](../../../.gitbook/assets/parathreads-pay-as-you-go.png) 
 
-
 * Parachain candidates can also attempt to deploy their application on an existing parachain via smart contracts. 
 * Parachain candidates can connect to Polkadot via [bridging](https://wiki.polkadot.network/docs/en/learn-bridges) as a solo-chain.
 
@@ -159,11 +157,13 @@ Consider using Substrate to create your own parachain!
 
 # **About the Author**
 
-This tutorial guide was created by Danny Salman. You can reach out to Danny on [Figment Forum](salman.danny@hotmail.com) & on GitHub for any help & questions pertaining to Polkadot and this guide.
+This guide was created by Danny Salman. You can reach out to Danny on 
+[Figment Forum](https://community.figment.io/u/salman.danny03/) & on GitHub for any 
+help & questions pertaining to Polkadot and this guide.
 
 # **References**
 
-- [1] [Crust Network | Explaining the Polkadot Parachain Slot Auction Mechanism](https://medium.com/crustnetwork/crust-network-explaining-the-polkadot-parachain-slot-auction-mechanism-533381d42607#:~:text=Rules%20of%20the%20Polkadot%20Parachain%20Slot%20Auction&text=Each%20slot%20is%20divided%20into,periods%20according%20to%20their%20needs.)
-- [2] [Parathreads: Pay-as-you-go Parachains](https://polkadot.network/parathreads-parathreads-pay-as-you-go-parachains/)
-- [3] [Polkadot — An Early In-Depth Analysis — Part Two — How Consensus Works](https://cryptoseq.medium.com/polkadot-an-early-in-depth-analysis-part-two-how-consensus-works-1b2b2f3a2245)
-- [4] [Polkadot & Kusama Crowdloans and Parachain Auctions — Simplified](https://danreecer.medium.com/polkadot-kusama-crowdloans-and-parachain-auctions-simplified-da89a05cd566)
+- [Crust Network | Explaining the Polkadot Parachain Slot Auction Mechanism](https://medium.com/crustnetwork/crust-network-explaining-the-polkadot-parachain-slot-auction-mechanism-533381d42607#:~:text=Rules%20of%20the%20Polkadot%20Parachain%20Slot%20Auction&text=Each%20slot%20is%20divided%20into,periods%20according%20to%20their%20needs.)
+- [Parathreads: Pay-as-you-go Parachains](https://polkadot.network/parathreads-parathreads-pay-as-you-go-parachains/)
+- [Polkadot — An Early In-Depth Analysis — Part Two — How Consensus Works](https://cryptoseq.medium.com/polkadot-an-early-in-depth-analysis-part-two-how-consensus-works-1b2b2f3a2245)
+- [Polkadot & Kusama Crowdloans and Parachain Auctions — Simplified](https://danreecer.medium.com/polkadot-kusama-crowdloans-and-parachain-auctions-simplified-da89a05cd566)
