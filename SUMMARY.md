@@ -101,6 +101,9 @@
     * [How to mint your own fungible Celo Token](network-documentation/celo/tutorial/celo-erc20-token-on-remix.md)
     * [How to use Ubeswap DEX on Celo](network-documentation/celo/tutorial/celo-ubeswap-tutorial.md)
     * [How to use Moola’s money market](network-documentation/celo/tutorial/moola-market.md)
+    * [How to Build a Decentralized Autonomous Organization (DAO) on Celo](network-documentation/celo/tutorial/celo-complete-dao-dapp/introduction.md)
+
+  * [💼 CELO Wallet](network-documentation/celo/celo-wallet.md)
     * [Create Vault Smart Contract](network-documentation/celo/tutorial/celo-vault-dapp/README.md)
       * [1. Connect and configure Alfajores](network-documentation/celo/tutorial/celo-vault-dapp/1.connect.md)
       * [2. Deploy the Vault Smart Contract](network-documentation/celo/tutorial/celo-vault-dapp/2.vault-smart-contract.md)
@@ -117,6 +120,7 @@
     * [How to customize an Ethereum smart contract for the Celo network](network-documentation/celo/tutorial/celo-contract-from-ethereum.md)
     * [How to run a Celo full node in a Virtual Machine](network-documentation/celo/tutorial/how-to-run-a-celo-full-node-in-a-virtual-machine.md)
     * [Distributed File Manager \(DFM\) using Celo, IPFS and ReactJS](network-documentation/celo/tutorial/distributed-file-manager-using-ipfs-celo-reactjs.md)
+
 * [🌌 Cosmos](network-documentation/cosmos/README.md)
   * [✏ Cosmos 101](network-documentation/cosmos/cosmos-101.md)
   * [👀 Resources](network-documentation/cosmos/resources.md)
